@@ -1,0 +1,4 @@
+def is_funny(string):
+    return True in [True if char!='h' or char!='a' else False for char in string]
+
+print(is_funny("hahahahahaha"))
