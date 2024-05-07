@@ -1,0 +1,5 @@
+Israel,Jerusalem
+Japan,Tokyo
+Jordan,Amman
+Kazakhstan,Astana
+Kenya,Nairobi
